@@ -58,6 +58,19 @@ Make sure you have the following installed on your machine:
    php artisan migrate
 
 
+## Installation
+
+1. **Start the Development Server**
+
+You can start the Laravel development server with the following command:
+
+```bash
+   php artisan serve
+
+2. **Access the Application**
+
+Open your web browser and visit http://127.0.0.1:8000 to access the application.
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
