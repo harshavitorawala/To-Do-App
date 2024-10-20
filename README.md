@@ -67,7 +67,11 @@ Make sure you have the following installed on your machine:
 ![Alt text](images/2.png)
 ![Alt text](images/3.png)
 ![Alt text](images/4.png)
-![Alt text](images/video.mp4)
+
+
+
+https://github.com/user-attachments/assets/40df1c25-4c9a-4e9a-ad11-d69cd90cfe57
+
 
 
 ## License
