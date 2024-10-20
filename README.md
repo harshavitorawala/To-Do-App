@@ -2,15 +2,6 @@
 
 A simple to-do list application built using Laravel. Users can create, edit, delete, and toggle the completion status of tasks.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Prerequisites
 
 Make sure you have the following installed on your machine:
@@ -73,6 +64,12 @@ Make sure you have the following installed on your machine:
 
 ## Screenshots
 ![Alt text](images/1.png)
+![Alt text](images/2.png)
+![Alt text](images/3.png)
+![Alt text](images/4.png)
+![Alt text](images/video.mp4)
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
