@@ -27,6 +27,36 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/your-username/todolist.git
    cd todolist
 
+2. **Install Dependencies**
+
+   ```bash
+   composer install
+
+3. **Set Up Environment File**
+
+   ```bash
+   cp .env.example .env
+
+4. **Generate Application Key**
+
+   ```bash
+   php artisan key:generate
+
+5. **Configure Database**
+
+   ```bash
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=your_database_name
+    DB_USERNAME=your_database_user
+    DB_PASSWORD=your_database_password
+
+6. **Generate Application Key**
+
+   ```bash
+   php artisan migrate
+
 
 ## License
 
